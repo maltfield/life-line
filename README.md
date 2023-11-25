@@ -1,4 +1,4 @@
-# Eco-Libre Life Line
+# Eco-Libre Life-Line
 
 This repo contains designs for an off-grid community's water system.
 
