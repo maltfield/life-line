@@ -19,9 +19,9 @@ The water system should be:
 
 ## Size
 
-**Pico (5-person)** (the smallest Eco-Libre Life-Line water system) should provide sufficient water for 5-people.
+**Pico (3-person)** (the smallest Eco-Libre Life-Line water system) should provide sufficient water for 3-people.
 
-**Nano (15-person)** The small-size system should be horizontally scalable by tripling the number of filters and tanks to provide sufficient water for a 15-person community
+**Nano (15-person)** The small-size system should be horizontally scalable by multiplying the number of filters and tanks to provide sufficient water for a 15-person community
 
 **Micro (30-person)** To handle a community of up to 30-people, a larger system design is provided.
 
@@ -31,7 +31,7 @@ The water system should be:
 
 ## Intake
 
-The water intake will consist of a weir on a stream with two openings with turbulence bars that channel turbulent water down onto a screen-covered 55-gallon barrel angled at at downward slope.
+The water intake will consist of a weir on a stream with two openings with turbulence bars that channel turbulent water down onto a screen-covered 200-liter barrel angled at at downward slope.
 
 This is a common low,budget, self-cleaning intake design that will shed organic debris during high-flow (eg a heavy rain).
 
