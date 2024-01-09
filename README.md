@@ -2,6 +2,9 @@
 
 This repo contains designs for an off-grid community's water system.
 
+
+<img src="docs/images/life-line_2023.12.jpg?raw=true" alt="Screenshot of CAD file"></a>
+
 # Design Goals
 
 The water system should be:
